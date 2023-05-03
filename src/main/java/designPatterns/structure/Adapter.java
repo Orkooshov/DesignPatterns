@@ -1,4 +1,4 @@
-package org.orkooshov.designPatterns.structure;
+package designPatterns.structure;
 
 public class Adapter {
     static class Adaptee {

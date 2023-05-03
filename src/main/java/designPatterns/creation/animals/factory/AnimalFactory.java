@@ -1,4 +1,4 @@
-package org.orkooshov.designPatterns.creation.animals.factory;
+package designPatterns.creation.animals.factory;
 
 import designPatterns.creation.animals.model.Animals;
 import designPatterns.creation.animals.model.Animal;

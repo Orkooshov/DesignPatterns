@@ -1,4 +1,4 @@
-package org.orkooshov.designPatterns.creation;
+package designPatterns.creation;
 
 public interface Prototype {
     Prototype clone();

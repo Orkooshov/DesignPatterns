@@ -1,4 +1,4 @@
-package org.orkooshov.designPatterns.creation.animals.model;
+package designPatterns.creation.animals.model;
 
 import designPatterns.creation.animals.model.contract.Movable;
 import designPatterns.creation.animals.model.contract.CanSay;

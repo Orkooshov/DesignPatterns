@@ -1,4 +1,4 @@
-package org.orkooshov.designPatterns.creation.animals.builder;
+package designPatterns.creation.animals.builder;
 
 import designPatterns.creation.animals.model.Cat;
 

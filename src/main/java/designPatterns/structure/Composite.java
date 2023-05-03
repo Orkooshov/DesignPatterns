@@ -1,4 +1,4 @@
-package org.orkooshov.designPatterns.structure;
+package designPatterns.structure;
 
 import java.util.Arrays;
 import java.util.List;

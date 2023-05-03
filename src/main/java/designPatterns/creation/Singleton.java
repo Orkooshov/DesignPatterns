@@ -1,4 +1,4 @@
-package org.orkooshov.designPatterns.creation;
+package designPatterns.creation;
 
 public class Singleton {
     private static Singleton instance = new Singleton();
